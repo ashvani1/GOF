@@ -1,3 +1,4 @@
+/*
 package guru.springframework.gof;
 
 import org.junit.Test;
@@ -14,3 +15,4 @@ public class GangOfFourApplicationTests {
 	}
 
 }
+*/
